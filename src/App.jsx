@@ -105,10 +105,10 @@ export default function App() {
     <div className="min-h-screen bg-gray-50 text-gray-900">
       <div className="max-w-6xl mx-auto px-6 py-10">
         <header className="mb-8">
-          <h1 className="text-3xl font-bold">Mazda IT Support Tracker</h1>
+          <h1 className="text-3xl font-bold">IT Support Tracker — Demo</h1>
           <p className="text-gray-600 mt-2">
-            Lightweight internal tracker for patching, server upgrades, and
-            co-op task coordination.
+            Independent portfolio prototype for patching, server upgrades, and
+            task coordination. All devices, dates, and teams are fictional.
           </p>
         </header>
 
